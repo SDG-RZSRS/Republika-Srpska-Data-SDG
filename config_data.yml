@@ -1,4 +1,4 @@
-
+# This is a comment
 # This config file is for use with the `build_data` and `check_data` functions,
 # which are helpers for implementations of Open SDG. This file allows easy use
 # of those functions without altering Python code.
@@ -113,3 +113,4 @@ docs_intro: This is a list of examples of endpoints and output that are
 # This is mainly intended to show units of measurement and series, which are not
 # normally considered "disaggregation".
 # docs_extra_disaggregations: ['Units', 'Series']
+"Create a new branch for this commit and start a pull request."
